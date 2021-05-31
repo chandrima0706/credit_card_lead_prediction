@@ -1,2 +1,2 @@
 # credit_card_lead_prediction
- Prediction of credit card lead using XGboost and catboost
+ Prediction of credit card lead using ensemble model.
